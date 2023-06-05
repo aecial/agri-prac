@@ -3,7 +3,6 @@ nav {
     display: flex;
     justify-content: center;
     gap: 7rem;
-    color: var(--accent-color);
 }
 a {
     text-decoration: none;
