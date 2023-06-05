@@ -1,0 +1,25 @@
+img {
+    width: 400px;
+    height: 400px;
+    aspect-ratio: 16/9;
+    border-radius: 50%;
+}
+h1 {
+    margin: 5rem 0;
+    text-align: center;
+}
+.profile-div {
+    display: flex;
+    justify-content: center;
+}
+.img-container {
+    width: auto;
+    height: auto;
+}
+.info {
+    text-align: center;
+    margin: 2rem;
+}
+.edit-profile-btn {
+    float: right;
+}

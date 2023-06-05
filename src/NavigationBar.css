@@ -1,0 +1,11 @@
+nav {
+    font-size: 4rem;
+    display: flex;
+    justify-content: center;
+    gap: 7rem;
+    color: var(--accent-color);
+}
+a {
+    text-decoration: none;
+    list-style-type: none;
+}

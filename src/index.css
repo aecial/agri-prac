@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+:root {
+  --background-color: #FFFFFF;
+  --accent-color: #2B5A36;
+}
+html {
+  font-size: 10px;
+}
+a {
+  text-decoration: none;
+  list-style-type: none;
+  color: var(--accent-color);
+}
+body {
+  margin: 0;
+  padding: 0;
+}
