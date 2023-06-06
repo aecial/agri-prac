@@ -16,6 +16,7 @@ const CreateNew = () => {
   return (
     <>
       <NavigationBar />
+      <h1>Auction Page</h1>
       <AuctionNav />
       <h1>Create a New Listing</h1>
       <form onSubmit={handleSubmit}>

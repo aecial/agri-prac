@@ -6,7 +6,7 @@ const AuctionListing = ({ name, price, volume }) => {
       <div className="auction-listing">
         <h1>{name}</h1>
         <h2>{price} pesos</h2>
-        <h4>{volume} kilograms</h4>
+        <h4>{volume} kilogram(s)</h4>
       </div>
     </>
   );
